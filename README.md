@@ -1,9 +1,5 @@
-# Mecatronica
-Bitacora personal de la asignatura de Mecatronica
+# Mecatronica 2022-2023
+Bitacora personal de la asignatura de Mecatronica. Proyectos y trabajo diario.
 
-VS code test
-
-![](Ejercicio2-img1.gif)
-
-
+Luis Miguel López
   
