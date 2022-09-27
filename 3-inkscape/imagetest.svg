@@ -1,7 +1,7 @@
 <svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" >
   <title>Estructura basica del SVG</title>
   <style>
-      .circle {fill: blue}
+      .circle {fill: red}
   </style>
-  <circle class="circle" cx="5" cy="5" r="5" />
+  <circle class="circle" cx="50" cy="10" r="40" />
 </svg>
