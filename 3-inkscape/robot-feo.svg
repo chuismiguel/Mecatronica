@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg17753"
+   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   sodipodi:docname="robot-verguenza.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17755"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="1.1893044"
+     inkscape:cx="331.28609"
+     inkscape:cy="441.01409"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="190.45208,229.9665"
+       orientation="0,-1"
+       id="guide18057"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="18.877118,206.70445"
+       orientation="1,0"
+       id="guide18063"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="39.956567,224.63772"
+       orientation="1,0"
+       id="guide18065"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="170.83792,212.36759"
+       orientation="1,0"
+       id="guide18067"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="196.63665,195.37818"
+       orientation="1,0"
+       id="guide18069"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="85.890888,85.261655"
+       orientation="0,-1"
+       id="guide18071"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="88.093218,20.764831"
+       orientation="0,-1"
+       id="guide18073"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-16.360169,107.59958"
+       orientation="0,-1"
+       id="guide18129"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-0.94385591,56.316739"
+       orientation="0,-1"
+       id="guide18131"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs17750">
+    <rect
+       x="375.37154"
+       y="555.52836"
+       width="268.65644"
+       height="35.921004"
+       id="rect18280" />
+    <rect
+       x="299.56522"
+       y="549.07851"
+       width="321.75549"
+       height="112.34769"
+       id="rect18224" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.264583"
+       d="M 39.702729,66.950208 H 170.44583 v 32.923697 h 26.37279 v 31.703105 h -22.01107 v 52.55441 H 40.262241 V 133.02911 H 19.440942 v -31.29849 h 21.483601 z"
+       id="path17811" />
+    <ellipse
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.264583"
+       id="path17969"
+       cx="76.849846"
+       cy="114.86938"
+       rx="17.275955"
+       ry="17.847612" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+       id="path17977"
+       cx="138.20607"
+       cy="121.2824"
+       rx="0.01546583"
+       ry="1.2733307" />
+    <ellipse
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.264583"
+       id="ellipse17995"
+       cx="141.57938"
+       cy="114.86938"
+       rx="17.275955"
+       ry="17.847612" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+       id="path17997"
+       cx="70.448807"
+       cy="121.2575"
+       rx="8.2081738"
+       ry="8.706645" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+       id="path17999"
+       cx="70.54007"
+       cy="123.15656"
+       rx="2.3190734"
+       ry="0.32491145" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+       id="ellipse18001"
+       cx="148.51379"
+       cy="121.2575"
+       rx="8.2081738"
+       ry="8.706645" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.264583"
+       id="rect18055"
+       width="88.115685"
+       height="30.221573"
+       x="63.401878"
+       y="140.51526"
+       rx="0"
+       ry="8.1110134" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-13.041456,-2.5601584)"
+       id="text18222"
+       style="font-size:85.3333px;white-space:pre;shape-inside:url(#rect18224);fill:#000080;stroke:#000000"><tspan
+         x="299.56445"
+         y="624.57809"
+         id="tspan18310">CHEMA</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text18278"
+       style="fill:#e6e6e6;stroke:#000000;white-space:pre;shape-inside:url(#rect18280)" />
+  </g>
+</svg>
