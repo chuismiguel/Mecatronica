@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.70710678"
-     inkscape:cx="231.22392"
-     inkscape:cy="572.04938"
+     inkscape:cx="463.15494"
+     inkscape:cy="473.05443"
      inkscape:window-width="1848"
      inkscape:window-height="1016"
      inkscape:window-x="72"
@@ -70,14 +70,21 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1;fill-opacity:1"
+       id="rect56816"
+       width="186.92274"
+       height="171.5359"
+       x="11.183093"
+       y="6.8609209" />
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text111"
-       style="font-size:85.3333px;white-space:pre;shape-inside:url(#rect113);fill:#000080;stroke:#000000"><tspan
+       style="font-size:85.3333px;white-space:pre;shape-inside:url(#rect113);display:inline;fill:#000080;stroke:#000000"><tspan
          x="173.30078"
          y="125.14841"
-         id="tspan53904">F1 CIRCUITS
+         id="tspan57006">F1 CIRCUITS
 </tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583"
@@ -88,7 +95,7 @@
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text606"
-       style="font-size:33.3333px;white-space:pre;shape-inside:url(#rect608);fill:none;stroke:#000000;-inkscape-font-specification:FreeMono;font-family:FreeMono;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:FreeMono;-inkscape-font-specification:FreeMono;white-space:pre;shape-inside:url(#rect608);display:inline;fill:none;stroke:#000000" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:none;stroke:#000000;stroke-width:0.264583"
@@ -125,26 +132,26 @@
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text51569"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:FreeMono;-inkscape-font-specification:FreeMono;white-space:pre;shape-inside:url(#rect51571);fill:none;stroke:#000000;stroke-opacity:1"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:FreeMono;-inkscape-font-specification:FreeMono;white-space:pre;shape-inside:url(#rect51571);display:inline;fill:none;stroke:#000000;stroke-opacity:1"><tspan
          x="280.66211"
          y="305.34258"
-         id="tspan53906">Circuit de Monaco</tspan></text>
+         id="tspan57008">Circuit de Monaco</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text51575"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:FreeMono;-inkscape-font-specification:FreeMono;white-space:pre;shape-inside:url(#rect51577);fill:none;stroke:#000000;stroke-opacity:1"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:FreeMono;-inkscape-font-specification:FreeMono;white-space:pre;shape-inside:url(#rect51577);display:inline;fill:none;stroke:#000000;stroke-opacity:1"><tspan
          x="126.36719"
          y="443.3832"
-         id="tspan53908">Belgium</tspan></text>
+         id="tspan57010">Belgium</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-43.437473,6.1757697)"
        id="text51581"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:FreeMono;-inkscape-font-specification:FreeMono;white-space:pre;shape-inside:url(#rect51583);fill:none;stroke:#000000;stroke-opacity:1"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:FreeMono;-inkscape-font-specification:FreeMono;white-space:pre;shape-inside:url(#rect51583);display:inline;fill:none;stroke:#000000;stroke-opacity:1"><tspan
          x="270.4043"
          y="615.75273"
-         id="tspan53910">Circuit de Spa-Francorchamps</tspan></text>
+         id="tspan57012">Circuit de Spa-Francorchamps</tspan></text>
     <rect
        style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
        id="rect53039"
